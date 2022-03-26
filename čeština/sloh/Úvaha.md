@@ -13,7 +13,7 @@
 - argumentace
 
 ## Slohový postup
-- úvahovy
+- úvahový
 
 ## Kompozice
 - úvod -> motivace k volbě tématu, reakce na zadání
